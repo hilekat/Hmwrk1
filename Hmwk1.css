@@ -1,0 +1,30 @@
+  header {
+    background-color: #1D88E5;
+    width: 700px;
+    height: 50px;
+    padding: 10px;
+    border: 1px solid white;
+  }
+
+
+  footer {
+    background-color: #1D88E5;
+    width: 700px;
+    height: 50px;
+    padding: 10px;
+    border: 1px solid white;
+    clear: centered; 
+  }
+  
+  p { 
+      color: blueviolet;
+  }
+
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTaYev9-FDo-rZl0hAtTR80SgVEz4jA3UUfWQ&usqp=CAU" alt="Paris" class="center"> 
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
